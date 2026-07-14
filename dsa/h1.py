@@ -1,5 +1,5 @@
 
-block_list = ['vidhi@gmail.com', 'nir@gmail.com', 'nidhi@gmail.com']
+block_list = ['vidhi@gmail.com', 'riya@gmail.com', 'nidhi@gmail.com']
 
 email = 'vidhi@gmail.com'
 
