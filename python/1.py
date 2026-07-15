@@ -116,7 +116,8 @@ while True:
 
 
 '''
- ✅H1. Amazon Conveyor Belt Simulation (Array)
+
+ H1. Amazon Conveyor Belt Simulation (Array)
 
 Problem Statement
 
@@ -135,5 +136,4 @@ Check whether the conveyor belt is completely full
 Display all slots of the conveyor belt
 
 Data Structure Used: Array (Python List)
-
 '''
